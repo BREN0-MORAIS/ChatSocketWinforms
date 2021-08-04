@@ -18,3 +18,24 @@ C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ref\
 C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.pdb
 C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.genruntimeconfig.cache
 C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.csproj.AssemblyReference.cache
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\ChatSocketClient.exe
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\ChatSocketClient.deps.json
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\ChatSocketClient.runtimeconfig.json
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\ChatSocketClient.runtimeconfig.dev.json
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\ChatSocketClient.dll
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\ref\ChatSocketClient.dll
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\ChatSocketClient.pdb
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\bin\Debug\net5.0-windows\SimpleTcp.dll
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.csproj.AssemblyReference.cache
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocket.Form1.resources
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.Properties.Resources.resources
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.csproj.GenerateResource.cache
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.AssemblyInfoInputs.cache
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.AssemblyInfo.cs
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.csproj.CoreCompileInputs.cache
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.csproj.CopyComplete
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.dll
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ref\ChatSocketClient.dll
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.pdb
+H:\_DEV BRENO-MORAIS\_Código-Fonte\ChatSocketWinforms\ChatSocket\ChatSocket\obj\Debug\net5.0-windows\ChatSocketClient.genruntimeconfig.cache

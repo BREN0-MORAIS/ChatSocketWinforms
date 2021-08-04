@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WCOGEO\\source\\repos\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj": {}
+    "H:\\_DEV BRENO-MORAIS\\_Código-Fonte\\ChatSocketWinforms\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WCOGEO\\source\\repos\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj": {
+    "H:\\_DEV BRENO-MORAIS\\_Código-Fonte\\ChatSocketWinforms\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WCOGEO\\source\\repos\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj",
+        "projectUniqueName": "H:\\_DEV BRENO-MORAIS\\_Código-Fonte\\ChatSocketWinforms\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj",
         "projectName": "ChatSocketClient",
-        "projectPath": "C:\\Users\\WCOGEO\\source\\repos\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj",
+        "projectPath": "H:\\_DEV BRENO-MORAIS\\_Código-Fonte\\ChatSocketWinforms\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj",
         "packagesPath": "C:\\Users\\WCOGEO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WCOGEO\\source\\repos\\ChatSocket\\ChatSocket\\obj\\",
+        "outputPath": "H:\\_DEV BRENO-MORAIS\\_Código-Fonte\\ChatSocketWinforms\\ChatSocket\\ChatSocket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -21,14 +21,22 @@ namespace ChatSocket
 
         private void btnConnect_Click(object sender, EventArgs e)
         {
-            try 
+            try
             {
-                client.Connect();
+                if (!string.IsNullOrEmpty(textUser.Text)  && !string.IsNullOrEmpty(textUser.Text))
+                {
+                    client.Connect();
 
-                btnSend.Enabled = true;
-                btnConnect.Enabled = false;
-            
-            }catch(Exception ex)
+                    btnSend.Enabled = true;
+                    btnConnect.Enabled = false;
+
+                    btnConnect.BackColor = Color.Green;
+                    btnConnect.ForeColor = Color.White;
+                    textIP.Enabled = false;
+                    textUser.Enabled = false;
+                }
+            }
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, "Menssagem", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -48,7 +56,7 @@ namespace ChatSocket
         {
             this.Invoke((MethodInvoker)delegate
             {
-                textInfo.Text += $"Server disconnected.{Environment.NewLine}";
+                textInfo.Text += $"{textUser.Text} disconnected.{Environment.NewLine}";
             });
         }
 
@@ -56,7 +64,7 @@ namespace ChatSocket
         {
             this.Invoke((MethodInvoker)delegate
             {
-                textInfo.Text += $"Server:{Encoding.UTF8.GetString(e.Data)} {Environment.NewLine}";
+                textInfo.Text += $"{textUser.Text}:{Encoding.UTF8.GetString(e.Data)} {Environment.NewLine}";
             });
 
         }
@@ -65,7 +73,7 @@ namespace ChatSocket
         {
             this.Invoke((MethodInvoker)delegate
             {
-                textInfo.Text += $"Server Conectado.{Environment.NewLine}";
+                textInfo.Text += $"{textUser.Text} Conectado.{Environment.NewLine}";
             });
 
         }
@@ -74,13 +82,23 @@ namespace ChatSocket
         {
             if (client.IsConnected)
             {
-                if(! string.IsNullOrEmpty(textMessage.Text))
+                if (!string.IsNullOrEmpty(textMessage.Text))
                 {
                     client.Send(textMessage.Text);
-                    textInfo.Text += $"Me:{textMessage.Text}{Environment.NewLine}";
+                    textInfo.Text += $"{textUser.Text}:{textMessage.Text}{Environment.NewLine}";
                     textMessage.Text = string.Empty;
                 }
             }
+        }
+
+        private void textInfo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

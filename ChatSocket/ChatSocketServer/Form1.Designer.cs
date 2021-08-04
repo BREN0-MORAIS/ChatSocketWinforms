@@ -108,7 +108,7 @@ namespace ChatSocket
             // 
             this.listClientIP.FormattingEnabled = true;
             this.listClientIP.ItemHeight = 15;
-            this.listClientIP.Location = new System.Drawing.Point(416, 42);
+            this.listClientIP.Location = new System.Drawing.Point(416, 32);
             this.listClientIP.Name = "listClientIP";
             this.listClientIP.Size = new System.Drawing.Size(275, 349);
             this.listClientIP.TabIndex = 8;
@@ -116,7 +116,7 @@ namespace ChatSocket
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(416, 14);
+            this.label3.Location = new System.Drawing.Point(416, 9);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(51, 15);
             this.label3.TabIndex = 9;
