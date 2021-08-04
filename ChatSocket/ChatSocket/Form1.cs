@@ -64,7 +64,7 @@ namespace ChatSocket
         {
             this.Invoke((MethodInvoker)delegate
             {
-                textInfo.Text += $"{textUser.Text}:{Encoding.UTF8.GetString(e.Data)} {Environment.NewLine}";
+                textInfo.Text += $"Server: {Encoding.UTF8.GetString(e.Data)} {Environment.NewLine}";
             });
 
         }

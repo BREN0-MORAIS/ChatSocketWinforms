@@ -66,12 +66,12 @@ namespace ChatSocket
 
         private void btnSend_Click(object sender, EventArgs e)
         {
+          
             if (server.IsListening)
             {
                 if(!string.IsNullOrEmpty(textMessage.Text) && listClientIP.SelectedItem != null)
                 {
                     server.Send(listClientIP.SelectedItem.ToString(), textMessage.Text);
-
                     textInfo.Text += $"Server: {textMessage.Text}{Environment.NewLine}";
                     textMessage.Text = string.Empty;
                 }
