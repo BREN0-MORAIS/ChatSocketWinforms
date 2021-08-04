@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHBdJGTZLrY4PiI5BI0eO+Qr1epm8+EXRN+zkbAd+IFvVNHtUzuLjDAlztdMCYPrphT0cNXJHsaOSt+Mjz++eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WCOGEO\\source\\repos\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WCOGEO\\.nuget\\packages\\supersimpletcp\\2.1.0.12\\supersimpletcp.2.1.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
