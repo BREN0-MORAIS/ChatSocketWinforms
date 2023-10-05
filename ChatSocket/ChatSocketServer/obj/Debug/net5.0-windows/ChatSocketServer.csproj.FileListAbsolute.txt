@@ -18,3 +18,23 @@ C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocketServer\bin\Debug\net5.0-window
 C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\ChatSocketServer.pdb
 C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.genruntimeconfig.cache
 C:\Users\WCOGEO\source\repos\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\ChatSocketServer.exe
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\ChatSocketServer.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\ChatSocketServer.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\ChatSocketServer.runtimeconfig.dev.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\ChatSocketServer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\ChatSocketServer.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\bin\Debug\net5.0-windows\SimpleTcp.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.csproj.AssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocket.Form1.resources
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.csproj.GenerateResource.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.csproj.CopyComplete
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\refint\ChatSocketServer.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ChatSocketServer.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ChatSocketWinforms\ChatSocket\ChatSocketServer\obj\Debug\net5.0-windows\ref\ChatSocketServer.dll

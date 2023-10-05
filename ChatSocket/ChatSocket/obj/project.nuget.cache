@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "96zpEVVMsNs18ye5UC6C+L/qAsIw+C+DL8D2Sw7Kz7mD9gHmp9+pqfqIQiX3LYpMIuzbv2B+nNsOhpnUSBGUhQ==",
+  "dgSpecHash": "RKCH4Ur4iigMdi/ydAdw1Rp06+CV651gxt4ZuBu6pQswg+Z9uB4BFsBvyjHC46CGaaHdgFZEjbfjERsYmMuYCg==",
   "success": true,
-  "projectFilePath": "H:\\_DEV BRENO-MORAIS\\_Código-Fonte\\ChatSocketWinforms\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj",
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\ChatSocketWinforms\\ChatSocket\\ChatSocket\\ChatSocketClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\WCOGEO\\.nuget\\packages\\supersimpletcp\\2.1.0.12\\supersimpletcp.2.1.0.12.nupkg.sha512"
+    "C:\\Users\\BENO\\.nuget\\packages\\supersimpletcp\\2.1.0.12\\supersimpletcp.2.1.0.12.nupkg.sha512"
   ],
   "logs": []
 }
